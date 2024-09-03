@@ -1,0 +1,2853 @@
+{
+    "count": 284,
+    "fast_moves": {
+        "count": 80,
+        "moves": [
+            {
+                "id": "200",
+                "name": "Fury Cutter",
+                "type": "Bug",
+                "power": "3",
+                "energy_gain": "6",
+                "duration": "0.4",
+                "damage_start": "0.1",
+                "damage_end": "0.4"
+            },
+            {
+                "id": "201",
+                "name": "Bug Bite",
+                "type": "Bug",
+                "power": "5",
+                "energy_gain": "6",
+                "duration": "0.5",
+                "damage_start": "0.25",
+                "damage_end": "0.45"
+            },
+            {
+                "id": "202",
+                "name": "Bite",
+                "type": "Dark",
+                "power": "6",
+                "energy_gain": "4",
+                "duration": "0.5",
+                "damage_start": "0.3",
+                "damage_end": "0.5"
+            },
+            {
+                "id": "203",
+                "name": "Sucker Punch",
+                "type": "Dark",
+                "power": "7",
+                "energy_gain": "8",
+                "duration": "0.7",
+                "damage_start": "0.3",
+                "damage_end": "0.7"
+            },
+            {
+                "id": "204",
+                "name": "Dragon Breath",
+                "type": "Dragon",
+                "power": "6",
+                "energy_gain": "4",
+                "duration": "0.5",
+                "damage_start": "0.3",
+                "damage_end": "0.5"
+            },
+            {
+                "id": "205",
+                "name": "Thunder Shock",
+                "type": "Electric",
+                "power": "5",
+                "energy_gain": "8",
+                "duration": "0.6",
+                "damage_start": "0.3",
+                "damage_end": "0.6"
+            },
+            {
+                "id": "206",
+                "name": "Spark",
+                "type": "Electric",
+                "power": "6",
+                "energy_gain": "9",
+                "duration": "0.7",
+                "damage_start": "0.3",
+                "damage_end": "0.7"
+            },
+            {
+                "id": "207",
+                "name": "Low Kick",
+                "type": "Fighting",
+                "power": "6",
+                "energy_gain": "6",
+                "duration": "0.6",
+                "damage_start": "0.3",
+                "damage_end": "0.6"
+            },
+            {
+                "id": "208",
+                "name": "Karate Chop",
+                "type": "Fighting",
+                "power": "8",
+                "energy_gain": "10",
+                "duration": "0.8",
+                "damage_start": "0.6",
+                "damage_end": "0.8"
+            },
+            {
+                "id": "209",
+                "name": "Ember",
+                "type": "Fire",
+                "power": "10",
+                "energy_gain": "10",
+                "duration": "1",
+                "damage_start": "0.6",
+                "damage_end": "0.8"
+            },
+            {
+                "id": "210",
+                "name": "Wing Attack",
+                "type": "Flying",
+                "power": "8",
+                "energy_gain": "9",
+                "duration": "0.8",
+                "damage_start": "0.55",
+                "damage_end": "0.75"
+            },
+            {
+                "id": "211",
+                "name": "Peck",
+                "type": "Flying",
+                "power": "10",
+                "energy_gain": "10",
+                "duration": "1",
+                "damage_start": "0.45",
+                "damage_end": "0.9"
+            },
+            {
+                "id": "212",
+                "name": "Lick",
+                "type": "Ghost",
+                "power": "5",
+                "energy_gain": "6",
+                "duration": "0.5",
+                "damage_start": "0.2",
+                "damage_end": "0.5"
+            },
+            {
+                "id": "213",
+                "name": "Shadow Claw",
+                "type": "Ghost",
+                "power": "9",
+                "energy_gain": "6",
+                "duration": "0.7",
+                "damage_start": "0.25",
+                "damage_end": "0.5"
+            },
+            {
+                "id": "214",
+                "name": "Vine Whip",
+                "type": "Grass",
+                "power": "7",
+                "energy_gain": "6",
+                "duration": "0.6",
+                "damage_start": "0.35",
+                "damage_end": "0.6"
+            },
+            {
+                "id": "215",
+                "name": "Razor Leaf",
+                "type": "Grass",
+                "power": "13",
+                "energy_gain": "7",
+                "duration": "1",
+                "damage_start": "0.6",
+                "damage_end": "0.85"
+            },
+            {
+                "id": "216",
+                "name": "Mud Shot",
+                "type": "Ground",
+                "power": "5",
+                "energy_gain": "7",
+                "duration": "0.6",
+                "damage_start": "0.35",
+                "damage_end": "0.55"
+            },
+            {
+                "id": "217",
+                "name": "Ice Shard",
+                "type": "Ice",
+                "power": "12",
+                "energy_gain": "12",
+                "duration": "1.2",
+                "damage_start": "0.6",
+                "damage_end": "0.9"
+            },
+            {
+                "id": "218",
+                "name": "Frost Breath",
+                "type": "Ice",
+                "power": "10",
+                "energy_gain": "8",
+                "duration": "0.9",
+                "damage_start": "0.45",
+                "damage_end": "0.75"
+            },
+            {
+                "id": "219",
+                "name": "Quick Attack",
+                "type": "Normal",
+                "power": "8",
+                "energy_gain": "10",
+                "duration": "0.8",
+                "damage_start": "0.25",
+                "damage_end": "0.55"
+            },
+            {
+                "id": "220",
+                "name": "Scratch",
+                "type": "Normal",
+                "power": "6",
+                "energy_gain": "4",
+                "duration": "0.5",
+                "damage_start": "0.3",
+                "damage_end": "0.5"
+            },
+            {
+                "id": "221",
+                "name": "Tackle",
+                "type": "Normal",
+                "power": "5",
+                "energy_gain": "5",
+                "duration": "0.5",
+                "damage_start": "0.3",
+                "damage_end": "0.5"
+            },
+            {
+                "id": "222",
+                "name": "Pound",
+                "type": "Normal",
+                "power": "7",
+                "energy_gain": "6",
+                "duration": "0.6",
+                "damage_start": "0.34",
+                "damage_end": "0.54"
+            },
+            {
+                "id": "223",
+                "name": "Cut",
+                "type": "Normal",
+                "power": "5",
+                "energy_gain": "5",
+                "duration": "0.5",
+                "damage_start": "0.3",
+                "damage_end": "0.5"
+            },
+            {
+                "id": "224",
+                "name": "Poison Jab",
+                "type": "Poison",
+                "power": "10",
+                "energy_gain": "7",
+                "duration": "0.8",
+                "damage_start": "0.2",
+                "damage_end": "0.8"
+            },
+            {
+                "id": "225",
+                "name": "Acid",
+                "type": "Poison",
+                "power": "9",
+                "energy_gain": "8",
+                "duration": "0.8",
+                "damage_start": "0.4",
+                "damage_end": "0.6"
+            },
+            {
+                "id": "226",
+                "name": "Psycho Cut",
+                "type": "Psychic",
+                "power": "5",
+                "energy_gain": "8",
+                "duration": "0.6",
+                "damage_start": "0.37",
+                "damage_end": "0.57"
+            },
+            {
+                "id": "227",
+                "name": "Rock Throw",
+                "type": "Rock",
+                "power": "12",
+                "energy_gain": "7",
+                "duration": "0.9",
+                "damage_start": "0.5",
+                "damage_end": "0.8"
+            },
+            {
+                "id": "228",
+                "name": "Metal Claw",
+                "type": "Steel",
+                "power": "8",
+                "energy_gain": "7",
+                "duration": "0.7",
+                "damage_start": "0.43",
+                "damage_end": "0.63"
+            },
+            {
+                "id": "229",
+                "name": "Bullet Punch",
+                "type": "Steel",
+                "power": "9",
+                "energy_gain": "10",
+                "duration": "0.9",
+                "damage_start": "0.3",
+                "damage_end": "0.9"
+            },
+            {
+                "id": "230",
+                "name": "Water Gun",
+                "type": "Water",
+                "power": "5",
+                "energy_gain": "5",
+                "duration": "0.5",
+                "damage_start": "0.3",
+                "damage_end": "0.5"
+            },
+            {
+                "id": "231",
+                "name": "Splash",
+                "type": "Water",
+                "power": "0",
+                "energy_gain": "20",
+                "duration": "1.73",
+                "damage_start": "1.03",
+                "damage_end": "1.23"
+            },
+            {
+                "id": "233",
+                "name": "Mud-Slap",
+                "type": "Ground",
+                "power": "18",
+                "energy_gain": "12",
+                "duration": "1.4",
+                "damage_start": "1.15",
+                "damage_end": "1.35"
+            },
+            {
+                "id": "234",
+                "name": "Zen Headbutt",
+                "type": "Psychic",
+                "power": "12",
+                "energy_gain": "10",
+                "duration": "1.1",
+                "damage_start": "0.85",
+                "damage_end": "1.05"
+            },
+            {
+                "id": "235",
+                "name": "Confusion",
+                "type": "Psychic",
+                "power": "20",
+                "energy_gain": "15",
+                "duration": "1.6",
+                "damage_start": "0.6",
+                "damage_end": "1.6"
+            },
+            {
+                "id": "236",
+                "name": "Poison Sting",
+                "type": "Poison",
+                "power": "5",
+                "energy_gain": "7",
+                "duration": "0.6",
+                "damage_start": "0.375",
+                "damage_end": "0.575"
+            },
+            {
+                "id": "237",
+                "name": "Bubble",
+                "type": "Water",
+                "power": "12",
+                "energy_gain": "14",
+                "duration": "1.2",
+                "damage_start": "0.75",
+                "damage_end": "1"
+            },
+            {
+                "id": "238",
+                "name": "Feint Attack",
+                "type": "Dark",
+                "power": "10",
+                "energy_gain": "9",
+                "duration": "0.9",
+                "damage_start": "0.75",
+                "damage_end": "0.9"
+            },
+            {
+                "id": "239",
+                "name": "Steel Wing",
+                "type": "Steel",
+                "power": "11",
+                "energy_gain": "6",
+                "duration": "0.8",
+                "damage_start": "0.5",
+                "damage_end": "0.8"
+            },
+            {
+                "id": "240",
+                "name": "Fire Fang",
+                "type": "Fire",
+                "power": "12",
+                "energy_gain": "8",
+                "duration": "0.9",
+                "damage_start": "0.64",
+                "damage_end": "0.84"
+            },
+            {
+                "id": "241",
+                "name": "Rock Smash",
+                "type": "Fighting",
+                "power": "15",
+                "energy_gain": "10",
+                "duration": "1.3",
+                "damage_start": "0.55",
+                "damage_end": "0.8"
+            },
+            {
+                "id": "242",
+                "name": "Transform",
+                "type": "Normal",
+                "power": "0",
+                "energy_gain": "0",
+                "duration": "2.23",
+                "damage_start": "0.3",
+                "damage_end": "0.7"
+            },
+            {
+                "id": "243",
+                "name": "Counter",
+                "type": "Fighting",
+                "power": "12",
+                "energy_gain": "8",
+                "duration": "0.9",
+                "damage_start": "0.7",
+                "damage_end": "0.9"
+            },
+            {
+                "id": "244",
+                "name": "Powder Snow",
+                "type": "Ice",
+                "power": "6",
+                "energy_gain": "15",
+                "duration": "1",
+                "damage_start": "0.85",
+                "damage_end": "1"
+            },
+            {
+                "id": "249",
+                "name": "Charge Beam",
+                "type": "Electric",
+                "power": "8",
+                "energy_gain": "15",
+                "duration": "1.1",
+                "damage_start": "0.85",
+                "damage_end": "1.05"
+            },
+            {
+                "id": "250",
+                "name": "Volt Switch",
+                "type": "Electric",
+                "power": "14",
+                "energy_gain": "21",
+                "duration": "1.6",
+                "damage_start": "0.7",
+                "damage_end": "0.9"
+            },
+            {
+                "id": "253",
+                "name": "Dragon Tail",
+                "type": "Dragon",
+                "power": "15",
+                "energy_gain": "9",
+                "duration": "1.1",
+                "damage_start": "0.85",
+                "damage_end": "1.05"
+            },
+            {
+                "id": "255",
+                "name": "Air Slash",
+                "type": "Flying",
+                "power": "14",
+                "energy_gain": "10",
+                "duration": "1.2",
+                "damage_start": "1",
+                "damage_end": "1.2"
+            },
+            {
+                "id": "260",
+                "name": "Infestation",
+                "type": "Bug",
+                "power": "10",
+                "energy_gain": "14",
+                "duration": "1.1",
+                "damage_start": "0.85",
+                "damage_end": "1.05"
+            },
+            {
+                "id": "261",
+                "name": "Struggle Bug",
+                "type": "Bug",
+                "power": "15",
+                "energy_gain": "15",
+                "duration": "1.5",
+                "damage_start": "1.2",
+                "damage_end": "1.5"
+            },
+            {
+                "id": "263",
+                "name": "Astonish",
+                "type": "Ghost",
+                "power": "8",
+                "energy_gain": "14",
+                "duration": "1.1",
+                "damage_start": "0.7",
+                "damage_end": "1.05"
+            },
+            {
+                "id": "264",
+                "name": "Hex",
+                "type": "Ghost",
+                "power": "10",
+                "energy_gain": "16",
+                "duration": "1.2",
+                "damage_start": "1",
+                "damage_end": "1.2"
+            },
+            {
+                "id": "266",
+                "name": "Iron Tail",
+                "type": "Steel",
+                "power": "15",
+                "energy_gain": "7",
+                "duration": "1.1",
+                "damage_start": "0.85",
+                "damage_end": "1.05"
+            },
+            {
+                "id": "269",
+                "name": "Fire Spin",
+                "type": "Fire",
+                "power": "14",
+                "energy_gain": "10",
+                "duration": "1.1",
+                "damage_start": "0.85",
+                "damage_end": "1.05"
+            },
+            {
+                "id": "271",
+                "name": "Bullet Seed",
+                "type": "Grass",
+                "power": "8",
+                "energy_gain": "14",
+                "duration": "1.1",
+                "damage_start": "0.85",
+                "damage_end": "1.05"
+            },
+            {
+                "id": "274",
+                "name": "Extrasensory",
+                "type": "Psychic",
+                "power": "12",
+                "energy_gain": "12",
+                "duration": "1.1",
+                "damage_start": "0.85",
+                "damage_end": "1.05"
+            },
+            {
+                "id": "278",
+                "name": "Snarl",
+                "type": "Dark",
+                "power": "12",
+                "energy_gain": "14",
+                "duration": "1.1",
+                "damage_start": "0.85",
+                "damage_end": "1.05"
+            },
+            {
+                "id": "281",
+                "name": "Hidden Power",
+                "type": "Normal",
+                "power": "15",
+                "energy_gain": "15",
+                "duration": "1.5",
+                "damage_start": "1.1",
+                "damage_end": "1.4"
+            },
+            {
+                "id": "282",
+                "name": "Take Down",
+                "type": "Normal",
+                "power": "8",
+                "energy_gain": "10",
+                "duration": "1.2",
+                "damage_start": "0.95",
+                "damage_end": "1.1"
+            },
+            {
+                "id": "283",
+                "name": "Waterfall",
+                "type": "Water",
+                "power": "16",
+                "energy_gain": "8",
+                "duration": "1.2",
+                "damage_start": "0.95",
+                "damage_end": "1.1"
+            },
+            {
+                "id": "287",
+                "name": "Yawn",
+                "type": "Normal",
+                "power": "0",
+                "energy_gain": "15",
+                "duration": "1.7",
+                "damage_start": "1.4",
+                "damage_end": "1.6"
+            },
+            {
+                "id": "291",
+                "name": "Present",
+                "type": "Normal",
+                "power": "5",
+                "energy_gain": "20",
+                "duration": "1.3",
+                "damage_start": "1.1",
+                "damage_end": "1.3"
+            },
+            {
+                "id": "297",
+                "name": "Smack Down",
+                "type": "Rock",
+                "power": "16",
+                "energy_gain": "8",
+                "duration": "1.2",
+                "damage_start": "0.8",
+                "damage_end": "1.1"
+            },
+            {
+                "id": "320",
+                "name": "Charm",
+                "type": "Fairy",
+                "power": "20",
+                "energy_gain": "11",
+                "duration": "1.5",
+                "damage_start": "0.9",
+                "damage_end": "1.2"
+            },
+            {
+                "id": "325",
+                "name": "Lock-On",
+                "type": "Normal",
+                "power": "1",
+                "energy_gain": "6",
+                "duration": "0.3",
+                "damage_start": "0.17",
+                "damage_end": "0.3"
+            },
+            {
+                "id": "326",
+                "name": "Thunder Fang",
+                "type": "Electric",
+                "power": "12",
+                "energy_gain": "16",
+                "duration": "1.2",
+                "damage_start": "0.4",
+                "damage_end": "0.9"
+            },
+            {
+                "id": "327",
+                "name": "Ice Fang",
+                "type": "Ice",
+                "power": "12",
+                "energy_gain": "20",
+                "duration": "1.5",
+                "damage_start": "0.4",
+                "damage_end": "1"
+            },
+            {
+                "id": "345",
+                "name": "Gust",
+                "type": "Flying",
+                "power": "25",
+                "energy_gain": "20",
+                "duration": "2",
+                "damage_start": "0.9",
+                "damage_end": "2"
+            },
+            {
+                "id": "346",
+                "name": "Incinerate",
+                "type": "Fire",
+                "power": "29",
+                "energy_gain": "20",
+                "duration": "2.3",
+                "damage_start": "0.5",
+                "damage_end": "2.3"
+            },
+            {
+                "id": "350",
+                "name": "Fairy Wind",
+                "type": "Fairy",
+                "power": "9",
+                "energy_gain": "13",
+                "duration": "0.97",
+                "damage_start": "0.6",
+                "damage_end": "0.97"
+            },
+            {
+                "id": "356",
+                "name": "Double Kick",
+                "type": "Fighting",
+                "power": "10",
+                "energy_gain": "13",
+                "duration": "1",
+                "damage_start": "0.3",
+                "damage_end": "0.8"
+            },
+            {
+                "id": "357",
+                "name": "Magical Leaf",
+                "type": "Grass",
+                "power": "16",
+                "energy_gain": "16",
+                "duration": "1.4",
+                "damage_start": "0.75",
+                "damage_end": "1.3"
+            },
+            {
+                "id": "368",
+                "name": "Rollout",
+                "type": "Rock",
+                "power": "14",
+                "energy_gain": "18",
+                "duration": "1.4",
+                "damage_start": "0.96",
+                "damage_end": "1.2"
+            },
+            {
+                "id": "373",
+                "name": "Water Shuriken",
+                "type": "Water",
+                "power": "10",
+                "energy_gain": "15",
+                "duration": "1.1",
+                "damage_start": "1",
+                "damage_end": "1.1"
+            },
+            {
+                "id": "385",
+                "name": "Leafage",
+                "type": "Grass",
+                "power": "9",
+                "energy_gain": "6",
+                "duration": "0.7",
+                "damage_start": "0.4",
+                "damage_end": "0.9"
+            },
+            {
+                "id": "387",
+                "name": "Geomancy",
+                "type": "Fairy",
+                "power": "20",
+                "energy_gain": "14",
+                "duration": "1.5",
+                "damage_start": "1",
+                "damage_end": "1.5"
+            },
+            {
+                "id": "401",
+                "name": "Psywave",
+                "type": "Psychic",
+                "power": "4",
+                "energy_gain": "7",
+                "duration": "0.5",
+                "damage_start": "0.3",
+                "damage_end": "0.6"
+            },
+            {
+                "id": "402",
+                "name": "Metal Sound",
+                "type": "Steel",
+                "power": "6",
+                "energy_gain": "9",
+                "duration": "0.7",
+                "damage_start": "0.4",
+                "damage_end": "0.9"
+            },
+            {
+                "id": "403",
+                "name": "Sand Attack",
+                "type": "Ground",
+                "power": "4",
+                "energy_gain": "7",
+                "duration": "0.5",
+                "damage_start": "0.3",
+                "damage_end": "0.6"
+            },
+            {
+                "id": "462",
+                "name": "Force Palm",
+                "type": "Fighting",
+                "power": "9",
+                "energy_gain": "14",
+                "duration": "0.9",
+                "damage_start": "0.7",
+                "damage_end": "0.9"
+            }
+        ]
+    },
+    "charged_moves": {
+        "count": 204,
+        "moves": [
+            {
+                "id": "013",
+                "name": "Wrap",
+                "type": "Normal",
+                "power": "60",
+                "energy_cost": "33",
+                "duration": "2.9",
+                "damage_start": "2.05",
+                "damage_end": "2.7"
+            },
+            {
+                "id": "014",
+                "name": "Hyper Beam",
+                "type": "Normal",
+                "power": "150",
+                "energy_cost": "100",
+                "duration": "3.8",
+                "damage_start": "3.3",
+                "damage_end": "3.6"
+            },
+            {
+                "id": "016",
+                "name": "Dark Pulse",
+                "type": "Dark",
+                "power": "80",
+                "energy_cost": "50",
+                "duration": "3",
+                "damage_start": "1.4",
+                "damage_end": "2.3"
+            },
+            {
+                "id": "018",
+                "name": "Sludge",
+                "type": "Poison",
+                "power": "50",
+                "energy_cost": "33",
+                "duration": "2.1",
+                "damage_start": "1.2",
+                "damage_end": "1.55"
+            },
+            {
+                "id": "020",
+                "name": "Vise Grip",
+                "type": "Normal",
+                "power": "35",
+                "energy_cost": "33",
+                "duration": "1.9",
+                "damage_start": "1.1",
+                "damage_end": "1.5"
+            },
+            {
+                "id": "021",
+                "name": "Flame Wheel",
+                "type": "Fire",
+                "power": "60",
+                "energy_cost": "50",
+                "duration": "2.7",
+                "damage_start": "2.1",
+                "damage_end": "2.4"
+            },
+            {
+                "id": "022",
+                "name": "Megahorn",
+                "type": "Bug",
+                "power": "110",
+                "energy_cost": "100",
+                "duration": "2.2",
+                "damage_start": "1.7",
+                "damage_end": "1.9"
+            },
+            {
+                "id": "024",
+                "name": "Flamethrower",
+                "type": "Fire",
+                "power": "70",
+                "energy_cost": "50",
+                "duration": "2.2",
+                "damage_start": "1.5",
+                "damage_end": "1.7"
+            },
+            {
+                "id": "026",
+                "name": "Dig",
+                "type": "Ground",
+                "power": "100",
+                "energy_cost": "50",
+                "duration": "4.7",
+                "damage_start": "2.8",
+                "damage_end": "4.5"
+            },
+            {
+                "id": "028",
+                "name": "Cross Chop",
+                "type": "Fighting",
+                "power": "50",
+                "energy_cost": "50",
+                "duration": "1.5",
+                "damage_start": "0.8",
+                "damage_end": "1.2"
+            },
+            {
+                "id": "030",
+                "name": "Psybeam",
+                "type": "Psychic",
+                "power": "70",
+                "energy_cost": "50",
+                "duration": "3.2",
+                "damage_start": "1.3",
+                "damage_end": "2.7"
+            },
+            {
+                "id": "031",
+                "name": "Earthquake",
+                "type": "Ground",
+                "power": "140",
+                "energy_cost": "100",
+                "duration": "3.6",
+                "damage_start": "2.7",
+                "damage_end": "3.5"
+            },
+            {
+                "id": "032",
+                "name": "Stone Edge",
+                "type": "Rock",
+                "power": "100",
+                "energy_cost": "100",
+                "duration": "2.3",
+                "damage_start": "0.7",
+                "damage_end": "2.1"
+            },
+            {
+                "id": "033",
+                "name": "Ice Punch",
+                "type": "Ice",
+                "power": "50",
+                "energy_cost": "33",
+                "duration": "1.9",
+                "damage_start": "1.3",
+                "damage_end": "1.6"
+            },
+            {
+                "id": "035",
+                "name": "Discharge",
+                "type": "Electric",
+                "power": "65",
+                "energy_cost": "33",
+                "duration": "2.5",
+                "damage_start": "1.7",
+                "damage_end": "2.1"
+            },
+            {
+                "id": "036",
+                "name": "Flash Cannon",
+                "type": "Steel",
+                "power": "100",
+                "energy_cost": "100",
+                "duration": "2.7",
+                "damage_start": "1.6",
+                "damage_end": "2.5"
+            },
+            {
+                "id": "038",
+                "name": "Drill Peck",
+                "type": "Flying",
+                "power": "65",
+                "energy_cost": "33",
+                "duration": "2.3",
+                "damage_start": "1.7",
+                "damage_end": "2.1"
+            },
+            {
+                "id": "039",
+                "name": "Ice Beam",
+                "type": "Ice",
+                "power": "90",
+                "energy_cost": "50",
+                "duration": "3.3",
+                "damage_start": "1.3",
+                "damage_end": "2.8"
+            },
+            {
+                "id": "040",
+                "name": "Blizzard",
+                "type": "Ice",
+                "power": "130",
+                "energy_cost": "100",
+                "duration": "3.1",
+                "damage_start": "1.5",
+                "damage_end": "2.9"
+            },
+            {
+                "id": "042",
+                "name": "Heat Wave",
+                "type": "Fire",
+                "power": "95",
+                "energy_cost": "100",
+                "duration": "3",
+                "damage_start": "1.7",
+                "damage_end": "2.8"
+            },
+            {
+                "id": "045",
+                "name": "Aerial Ace",
+                "type": "Flying",
+                "power": "55",
+                "energy_cost": "33",
+                "duration": "2.4",
+                "damage_start": "1.9",
+                "damage_end": "2.2"
+            },
+            {
+                "id": "046",
+                "name": "Drill Run",
+                "type": "Ground",
+                "power": "80",
+                "energy_cost": "50",
+                "duration": "2.8",
+                "damage_start": "1.7",
+                "damage_end": "2.6"
+            },
+            {
+                "id": "047",
+                "name": "Petal Blizzard",
+                "type": "Grass",
+                "power": "110",
+                "energy_cost": "100",
+                "duration": "2.6",
+                "damage_start": "1.7",
+                "damage_end": "2.3"
+            },
+            {
+                "id": "049",
+                "name": "Bug Buzz",
+                "type": "Bug",
+                "power": "100",
+                "energy_cost": "50",
+                "duration": "3.7",
+                "damage_start": "2",
+                "damage_end": "3.1"
+            },
+            {
+                "id": "050",
+                "name": "Poison Fang",
+                "type": "Poison",
+                "power": "35",
+                "energy_cost": "33",
+                "duration": "1.7",
+                "damage_start": "0.9",
+                "damage_end": "1.4"
+            },
+            {
+                "id": "051",
+                "name": "Night Slash",
+                "type": "Dark",
+                "power": "50",
+                "energy_cost": "33",
+                "duration": "2.2",
+                "damage_start": "1.3",
+                "damage_end": "2"
+            },
+            {
+                "id": "053",
+                "name": "Bubble Beam",
+                "type": "Water",
+                "power": "45",
+                "energy_cost": "33",
+                "duration": "1.9",
+                "damage_start": "1.45",
+                "damage_end": "1.7"
+            },
+            {
+                "id": "054",
+                "name": "Submission",
+                "type": "Fighting",
+                "power": "60",
+                "energy_cost": "50",
+                "duration": "2.2",
+                "damage_start": "1.8",
+                "damage_end": "2"
+            },
+            {
+                "id": "056",
+                "name": "Low Sweep",
+                "type": "Fighting",
+                "power": "40",
+                "energy_cost": "33",
+                "duration": "1.9",
+                "damage_start": "1.3",
+                "damage_end": "1.65"
+            },
+            {
+                "id": "057",
+                "name": "Aqua Jet",
+                "type": "Water",
+                "power": "45",
+                "energy_cost": "33",
+                "duration": "2.6",
+                "damage_start": "1.7",
+                "damage_end": "2.1"
+            },
+            {
+                "id": "058",
+                "name": "Aqua Tail",
+                "type": "Water",
+                "power": "50",
+                "energy_cost": "33",
+                "duration": "1.9",
+                "damage_start": "1.2",
+                "damage_end": "1.65"
+            },
+            {
+                "id": "059",
+                "name": "Seed Bomb",
+                "type": "Grass",
+                "power": "55",
+                "energy_cost": "33",
+                "duration": "2.1",
+                "damage_start": "1.2",
+                "damage_end": "1.9"
+            },
+            {
+                "id": "060",
+                "name": "Psyshock",
+                "type": "Psychic",
+                "power": "65",
+                "energy_cost": "33",
+                "duration": "2.7",
+                "damage_start": "2",
+                "damage_end": "2.6"
+            },
+            {
+                "id": "062",
+                "name": "Ancient Power",
+                "type": "Rock",
+                "power": "70",
+                "energy_cost": "33",
+                "duration": "3.5",
+                "damage_start": "2.85",
+                "damage_end": "3.1"
+            },
+            {
+                "id": "063",
+                "name": "Rock Tomb",
+                "type": "Rock",
+                "power": "70",
+                "energy_cost": "50",
+                "duration": "3.2",
+                "damage_start": "2.25",
+                "damage_end": "3"
+            },
+            {
+                "id": "064",
+                "name": "Rock Slide",
+                "type": "Rock",
+                "power": "80",
+                "energy_cost": "50",
+                "duration": "2.7",
+                "damage_start": "1.5",
+                "damage_end": "2.6"
+            },
+            {
+                "id": "065",
+                "name": "Power Gem",
+                "type": "Rock",
+                "power": "80",
+                "energy_cost": "50",
+                "duration": "2.9",
+                "damage_start": "1.95",
+                "damage_end": "2.7"
+            },
+            {
+                "id": "066",
+                "name": "Shadow Sneak",
+                "type": "Ghost",
+                "power": "50",
+                "energy_cost": "33",
+                "duration": "2.9",
+                "damage_start": "2.2",
+                "damage_end": "2.7"
+            },
+            {
+                "id": "067",
+                "name": "Shadow Punch",
+                "type": "Ghost",
+                "power": "40",
+                "energy_cost": "33",
+                "duration": "1.7",
+                "damage_start": "1.3",
+                "damage_end": "1.5"
+            },
+            {
+                "id": "069",
+                "name": "Ominous Wind",
+                "type": "Ghost",
+                "power": "50",
+                "energy_cost": "33",
+                "duration": "2.3",
+                "damage_start": "1.85",
+                "damage_end": "2.1"
+            },
+            {
+                "id": "070",
+                "name": "Shadow Ball",
+                "type": "Ghost",
+                "power": "100",
+                "energy_cost": "50",
+                "duration": "3",
+                "damage_start": "2.4",
+                "damage_end": "2.8"
+            },
+            {
+                "id": "072",
+                "name": "Magnet Bomb",
+                "type": "Steel",
+                "power": "70",
+                "energy_cost": "33",
+                "duration": "2.8",
+                "damage_start": "2.2",
+                "damage_end": "2.6"
+            },
+            {
+                "id": "074",
+                "name": "Iron Head",
+                "type": "Steel",
+                "power": "60",
+                "energy_cost": "50",
+                "duration": "1.9",
+                "damage_start": "1.3",
+                "damage_end": "1.7"
+            },
+            {
+                "id": "075",
+                "name": "Parabolic Charge",
+                "type": "Electric",
+                "power": "65",
+                "energy_cost": "50",
+                "duration": "2.8",
+                "damage_start": "1.2",
+                "damage_end": "2.4"
+            },
+            {
+                "id": "077",
+                "name": "Thunder Punch",
+                "type": "Electric",
+                "power": "45",
+                "energy_cost": "33",
+                "duration": "1.8",
+                "damage_start": "1.7",
+                "damage_end": "1.55"
+            },
+            {
+                "id": "078",
+                "name": "Thunder",
+                "type": "Electric",
+                "power": "100",
+                "energy_cost": "100",
+                "duration": "2.4",
+                "damage_start": "1.2",
+                "damage_end": "2.2"
+            },
+            {
+                "id": "079",
+                "name": "Thunderbolt",
+                "type": "Electric",
+                "power": "80",
+                "energy_cost": "50",
+                "duration": "2.5",
+                "damage_start": "1.8",
+                "damage_end": "2.3"
+            },
+            {
+                "id": "080",
+                "name": "Twister",
+                "type": "Dragon",
+                "power": "45",
+                "energy_cost": "33",
+                "duration": "2.8",
+                "damage_start": "0.95",
+                "damage_end": "2.6"
+            },
+            {
+                "id": "082",
+                "name": "Dragon Pulse",
+                "type": "Dragon",
+                "power": "90",
+                "energy_cost": "50",
+                "duration": "3.6",
+                "damage_start": "2.15",
+                "damage_end": "3.3"
+            },
+            {
+                "id": "083",
+                "name": "Dragon Claw",
+                "type": "Dragon",
+                "power": "50",
+                "energy_cost": "33",
+                "duration": "1.7",
+                "damage_start": "1.1",
+                "damage_end": "1.3"
+            },
+            {
+                "id": "084",
+                "name": "Disarming Voice",
+                "type": "Fairy",
+                "power": "70",
+                "energy_cost": "33",
+                "duration": "3.9",
+                "damage_start": "3.2",
+                "damage_end": "3.5"
+            },
+            {
+                "id": "085",
+                "name": "Draining Kiss",
+                "type": "Fairy",
+                "power": "60",
+                "energy_cost": "50",
+                "duration": "2.6",
+                "damage_start": "1",
+                "damage_end": "1.3"
+            },
+            {
+                "id": "086",
+                "name": "Dazzling Gleam",
+                "type": "Fairy",
+                "power": "100",
+                "energy_cost": "50",
+                "duration": "3.5",
+                "damage_start": "2.1",
+                "damage_end": "3.3"
+            },
+            {
+                "id": "087",
+                "name": "Moonblast",
+                "type": "Fairy",
+                "power": "130",
+                "energy_cost": "100",
+                "duration": "3.9",
+                "damage_start": "2.2",
+                "damage_end": "3.7"
+            },
+            {
+                "id": "088",
+                "name": "Play Rough",
+                "type": "Fairy",
+                "power": "90",
+                "energy_cost": "50",
+                "duration": "2.9",
+                "damage_start": "1.3",
+                "damage_end": "2.7"
+            },
+            {
+                "id": "089",
+                "name": "Cross Poison",
+                "type": "Poison",
+                "power": "40",
+                "energy_cost": "33",
+                "duration": "1.5",
+                "damage_start": "0.9",
+                "damage_end": "1.3"
+            },
+            {
+                "id": "090",
+                "name": "Sludge Bomb",
+                "type": "Poison",
+                "power": "80",
+                "energy_cost": "50",
+                "duration": "2.3",
+                "damage_start": "1.1",
+                "damage_end": "2.1"
+            },
+            {
+                "id": "091",
+                "name": "Sludge Wave",
+                "type": "Poison",
+                "power": "110",
+                "energy_cost": "100",
+                "duration": "3.2",
+                "damage_start": "2",
+                "damage_end": "3"
+            },
+            {
+                "id": "092",
+                "name": "Gunk Shot",
+                "type": "Poison",
+                "power": "130",
+                "energy_cost": "100",
+                "duration": "3.1",
+                "damage_start": "1.7",
+                "damage_end": "2.7"
+            },
+            {
+                "id": "094",
+                "name": "Bone Club",
+                "type": "Ground",
+                "power": "40",
+                "energy_cost": "33",
+                "duration": "1.6",
+                "damage_start": "1",
+                "damage_end": "1.4"
+            },
+            {
+                "id": "095",
+                "name": "Bulldoze",
+                "type": "Ground",
+                "power": "80",
+                "energy_cost": "50",
+                "duration": "3.5",
+                "damage_start": "2.6",
+                "damage_end": "3.1"
+            },
+            {
+                "id": "096",
+                "name": "Mud Bomb",
+                "type": "Ground",
+                "power": "55",
+                "energy_cost": "33",
+                "duration": "2.3",
+                "damage_start": "1.7",
+                "damage_end": "2.1"
+            },
+            {
+                "id": "099",
+                "name": "Signal Beam",
+                "type": "Bug",
+                "power": "75",
+                "energy_cost": "50",
+                "duration": "2.9",
+                "damage_start": "1.8",
+                "damage_end": "2.6"
+            },
+            {
+                "id": "100",
+                "name": "X-Scissor",
+                "type": "Bug",
+                "power": "45",
+                "energy_cost": "33",
+                "duration": "1.6",
+                "damage_start": "1.2",
+                "damage_end": "1.4"
+            },
+            {
+                "id": "101",
+                "name": "Flame Charge",
+                "type": "Fire",
+                "power": "70",
+                "energy_cost": "33",
+                "duration": "3.8",
+                "damage_start": "2.9",
+                "damage_end": "3.45"
+            },
+            {
+                "id": "102",
+                "name": "Flame Burst",
+                "type": "Fire",
+                "power": "70",
+                "energy_cost": "50",
+                "duration": "2.6",
+                "damage_start": "1",
+                "damage_end": "2.1"
+            },
+            {
+                "id": "103",
+                "name": "Fire Blast",
+                "type": "Fire",
+                "power": "140",
+                "energy_cost": "100",
+                "duration": "4.2",
+                "damage_start": "3.1",
+                "damage_end": "3.9"
+            },
+            {
+                "id": "104",
+                "name": "Brine",
+                "type": "Water",
+                "power": "60",
+                "energy_cost": "50",
+                "duration": "2.3",
+                "damage_start": "1.5",
+                "damage_end": "2.1"
+            },
+            {
+                "id": "105",
+                "name": "Water Pulse",
+                "type": "Water",
+                "power": "70",
+                "energy_cost": "50",
+                "duration": "3.2",
+                "damage_start": "2.2",
+                "damage_end": "2.9"
+            },
+            {
+                "id": "106",
+                "name": "Scald",
+                "type": "Water",
+                "power": "80",
+                "energy_cost": "50",
+                "duration": "3.7",
+                "damage_start": "1.3",
+                "damage_end": "3.4"
+            },
+            {
+                "id": "107",
+                "name": "Hydro Pump",
+                "type": "Water",
+                "power": "130",
+                "energy_cost": "100",
+                "duration": "3.3",
+                "damage_start": "0.9",
+                "damage_end": "3"
+            },
+            {
+                "id": "108",
+                "name": "Psychic",
+                "type": "Psychic",
+                "power": "90",
+                "energy_cost": "50",
+                "duration": "2.8",
+                "damage_start": "1.3",
+                "damage_end": "2.6"
+            },
+            {
+                "id": "109",
+                "name": "Psystrike",
+                "type": "Psychic",
+                "power": "90",
+                "energy_cost": "50",
+                "duration": "2.3",
+                "damage_start": "1",
+                "damage_end": "2"
+            },
+            {
+                "id": "111",
+                "name": "Icy Wind",
+                "type": "Ice",
+                "power": "60",
+                "energy_cost": "33",
+                "duration": "3.3",
+                "damage_start": "2",
+                "damage_end": "2.8"
+            },
+            {
+                "id": "115",
+                "name": "Fire Punch",
+                "type": "Fire",
+                "power": "55",
+                "energy_cost": "33",
+                "duration": "2.2",
+                "damage_start": "1.5",
+                "damage_end": "1.9"
+            },
+            {
+                "id": "116",
+                "name": "Solar Beam",
+                "type": "Grass",
+                "power": "180",
+                "energy_cost": "100",
+                "duration": "4.9",
+                "damage_start": "2.7",
+                "damage_end": "4.7"
+            },
+            {
+                "id": "117",
+                "name": "Leaf Blade",
+                "type": "Grass",
+                "power": "70",
+                "energy_cost": "33",
+                "duration": "2.4",
+                "damage_start": "1.25",
+                "damage_end": "2.2"
+            },
+            {
+                "id": "118",
+                "name": "Power Whip",
+                "type": "Grass",
+                "power": "90",
+                "energy_cost": "50",
+                "duration": "2.6",
+                "damage_start": "1.25",
+                "damage_end": "2.35"
+            },
+            {
+                "id": "121",
+                "name": "Air Cutter",
+                "type": "Flying",
+                "power": "60",
+                "energy_cost": "50",
+                "duration": "2.7",
+                "damage_start": "1.8",
+                "damage_end": "2.5"
+            },
+            {
+                "id": "122",
+                "name": "Hurricane",
+                "type": "Flying",
+                "power": "110",
+                "energy_cost": "100",
+                "duration": "2.7",
+                "damage_start": "1.2",
+                "damage_end": "2.4"
+            },
+            {
+                "id": "123",
+                "name": "Brick Break",
+                "type": "Fighting",
+                "power": "40",
+                "energy_cost": "33",
+                "duration": "1.6",
+                "damage_start": "0.8",
+                "damage_end": "1.4"
+            },
+            {
+                "id": "125",
+                "name": "Swift",
+                "type": "Normal",
+                "power": "60",
+                "energy_cost": "50",
+                "duration": "2.8",
+                "damage_start": "2",
+                "damage_end": "2.6"
+            },
+            {
+                "id": "126",
+                "name": "Horn Attack",
+                "type": "Normal",
+                "power": "40",
+                "energy_cost": "33",
+                "duration": "1.85",
+                "damage_start": "0.8",
+                "damage_end": "1.65"
+            },
+            {
+                "id": "127",
+                "name": "Stomp",
+                "type": "Normal",
+                "power": "55",
+                "energy_cost": "50",
+                "duration": "1.7",
+                "damage_start": "1.1",
+                "damage_end": "1.5"
+            },
+            {
+                "id": "129",
+                "name": "Hyper Fang",
+                "type": "Normal",
+                "power": "80",
+                "energy_cost": "50",
+                "duration": "2.5",
+                "damage_start": "1.5",
+                "damage_end": "2"
+            },
+            {
+                "id": "131",
+                "name": "Body Slam",
+                "type": "Normal",
+                "power": "50",
+                "energy_cost": "33",
+                "duration": "1.9",
+                "damage_start": "1.2",
+                "damage_end": "1.7"
+            },
+            {
+                "id": "133",
+                "name": "Struggle",
+                "type": "Normal",
+                "power": "35",
+                "energy_cost": "0",
+                "duration": "2.2",
+                "damage_start": "1.2",
+                "damage_end": "2"
+            },
+            {
+                "id": "245",
+                "name": "Close Combat",
+                "type": "Fighting",
+                "power": "100",
+                "energy_cost": "100",
+                "duration": "2.3",
+                "damage_start": "1",
+                "damage_end": "2.3"
+            },
+            {
+                "id": "246",
+                "name": "Dynamic Punch",
+                "type": "Fighting",
+                "power": "90",
+                "energy_cost": "50",
+                "duration": "2.7",
+                "damage_start": "1.2",
+                "damage_end": "2.7"
+            },
+            {
+                "id": "247",
+                "name": "Focus Blast",
+                "type": "Fighting",
+                "power": "140",
+                "energy_cost": "100",
+                "duration": "3.5",
+                "damage_start": "3",
+                "damage_end": "3.5"
+            },
+            {
+                "id": "248",
+                "name": "Aurora Beam",
+                "type": "Ice",
+                "power": "80",
+                "energy_cost": "50",
+                "duration": "3.55",
+                "damage_start": "3.35",
+                "damage_end": "3.55"
+            },
+            {
+                "id": "251",
+                "name": "Wild Charge",
+                "type": "Electric",
+                "power": "90",
+                "energy_cost": "50",
+                "duration": "2.6",
+                "damage_start": "1.7",
+                "damage_end": "2.1"
+            },
+            {
+                "id": "252",
+                "name": "Zap Cannon",
+                "type": "Electric",
+                "power": "140",
+                "energy_cost": "100",
+                "duration": "3.7",
+                "damage_start": "3",
+                "damage_end": "3.5"
+            },
+            {
+                "id": "254",
+                "name": "Avalanche",
+                "type": "Ice",
+                "power": "90",
+                "energy_cost": "50",
+                "duration": "2.7",
+                "damage_start": "1.7",
+                "damage_end": "2.1"
+            },
+            {
+                "id": "256",
+                "name": "Brave Bird",
+                "type": "Flying",
+                "power": "130",
+                "energy_cost": "100",
+                "duration": "2",
+                "damage_start": "1",
+                "damage_end": "1.6"
+            },
+            {
+                "id": "257",
+                "name": "Sky Attack",
+                "type": "Flying",
+                "power": "80",
+                "energy_cost": "50",
+                "duration": "2",
+                "damage_start": "1.5",
+                "damage_end": "1.7"
+            },
+            {
+                "id": "258",
+                "name": "Sand Tomb",
+                "type": "Ground",
+                "power": "60",
+                "energy_cost": "33",
+                "duration": "4",
+                "damage_start": "1.7",
+                "damage_end": "4"
+            },
+            {
+                "id": "259",
+                "name": "Rock Blast",
+                "type": "Rock",
+                "power": "50",
+                "energy_cost": "33",
+                "duration": "2.1",
+                "damage_start": "1.6",
+                "damage_end": "2"
+            },
+            {
+                "id": "262",
+                "name": "Silver Wind",
+                "type": "Bug",
+                "power": "70",
+                "energy_cost": "33",
+                "duration": "3.7",
+                "damage_start": "1.7",
+                "damage_end": "3.5"
+            },
+            {
+                "id": "265",
+                "name": "Night Shade",
+                "type": "Ghost",
+                "power": "60",
+                "energy_cost": "50",
+                "duration": "2.6",
+                "damage_start": "2.1",
+                "damage_end": "2.5"
+            },
+            {
+                "id": "267",
+                "name": "Gyro Ball",
+                "type": "Steel",
+                "power": "80",
+                "energy_cost": "50",
+                "duration": "3.3",
+                "damage_start": "3",
+                "damage_end": "3.3"
+            },
+            {
+                "id": "268",
+                "name": "Heavy Slam",
+                "type": "Steel",
+                "power": "70",
+                "energy_cost": "50",
+                "duration": "2.1",
+                "damage_start": "1.5",
+                "damage_end": "1.9"
+            },
+            {
+                "id": "270",
+                "name": "Overheat",
+                "type": "Fire",
+                "power": "160",
+                "energy_cost": "100",
+                "duration": "4",
+                "damage_start": "2.6",
+                "damage_end": "3.8"
+            },
+            {
+                "id": "272",
+                "name": "Grass Knot",
+                "type": "Grass",
+                "power": "90",
+                "energy_cost": "50",
+                "duration": "2.6",
+                "damage_start": "1.7",
+                "damage_end": "2.6"
+            },
+            {
+                "id": "273",
+                "name": "Energy Ball",
+                "type": "Grass",
+                "power": "90",
+                "energy_cost": "50",
+                "duration": "3.9",
+                "damage_start": "3",
+                "damage_end": "3.8"
+            },
+            {
+                "id": "275",
+                "name": "Future Sight",
+                "type": "Psychic",
+                "power": "120",
+                "energy_cost": "100",
+                "duration": "2.7",
+                "damage_start": "1.4",
+                "damage_end": "2.7"
+            },
+            {
+                "id": "276",
+                "name": "Mirror Coat",
+                "type": "Psychic",
+                "power": "60",
+                "energy_cost": "50",
+                "duration": "2.6",
+                "damage_start": "2.3",
+                "damage_end": "2.5"
+            },
+            {
+                "id": "277",
+                "name": "Outrage",
+                "type": "Dragon",
+                "power": "110",
+                "energy_cost": "50",
+                "duration": "3.9",
+                "damage_start": "2.5",
+                "damage_end": "3.7"
+            },
+            {
+                "id": "279",
+                "name": "Crunch",
+                "type": "Dark",
+                "power": "70",
+                "energy_cost": "33",
+                "duration": "3.2",
+                "damage_start": "1.3",
+                "damage_end": "3"
+            },
+            {
+                "id": "280",
+                "name": "Foul Play",
+                "type": "Dark",
+                "power": "70",
+                "energy_cost": "50",
+                "duration": "2",
+                "damage_start": "1.7",
+                "damage_end": "1.9"
+            },
+            {
+                "id": "284",
+                "name": "Surf",
+                "type": "Water",
+                "power": "65",
+                "energy_cost": "50",
+                "duration": "1.7",
+                "damage_start": "1.4",
+                "damage_end": "1.6"
+            },
+            {
+                "id": "285",
+                "name": "Draco Meteor",
+                "type": "Dragon",
+                "power": "150",
+                "energy_cost": "100",
+                "duration": "3.6",
+                "damage_start": "3",
+                "damage_end": "3.5"
+            },
+            {
+                "id": "286",
+                "name": "Doom Desire",
+                "type": "Steel",
+                "power": "70",
+                "energy_cost": "33",
+                "duration": "1.7",
+                "damage_start": "1.4",
+                "damage_end": "1.6"
+            },
+            {
+                "id": "288",
+                "name": "Psycho Boost",
+                "type": "Psychic",
+                "power": "70",
+                "energy_cost": "50",
+                "duration": "4",
+                "damage_start": "3.5",
+                "damage_end": "4"
+            },
+            {
+                "id": "289",
+                "name": "Origin Pulse",
+                "type": "Water",
+                "power": "130",
+                "energy_cost": "100",
+                "duration": "1.7",
+                "damage_start": "1.4",
+                "damage_end": "1.6"
+            },
+            {
+                "id": "290",
+                "name": "Precipice Blades",
+                "type": "Ground",
+                "power": "130",
+                "energy_cost": "100",
+                "duration": "1.7",
+                "damage_start": "1.4",
+                "damage_end": "1.6"
+            },
+            {
+                "id": "292",
+                "name": "Weather Ball",
+                "type": "Fire",
+                "power": "55",
+                "energy_cost": "33",
+                "duration": "1.6",
+                "damage_start": "1.35",
+                "damage_end": "1.6"
+            },
+            {
+                "id": "293",
+                "name": "Weather Ball",
+                "type": "Ice",
+                "power": "55",
+                "energy_cost": "33",
+                "duration": "1.6",
+                "damage_start": "1.35",
+                "damage_end": "1.6"
+            },
+            {
+                "id": "294",
+                "name": "Weather Ball",
+                "type": "Rock",
+                "power": "55",
+                "energy_cost": "33",
+                "duration": "1.6",
+                "damage_start": "1.35",
+                "damage_end": "1.6"
+            },
+            {
+                "id": "295",
+                "name": "Weather Ball",
+                "type": "Water",
+                "power": "55",
+                "energy_cost": "33",
+                "duration": "1.6",
+                "damage_start": "1.35",
+                "damage_end": "1.6"
+            },
+            {
+                "id": "296",
+                "name": "Frenzy Plant",
+                "type": "Grass",
+                "power": "100",
+                "energy_cost": "50",
+                "duration": "2.6",
+                "damage_start": "2.145",
+                "damage_end": "2.55"
+            },
+            {
+                "id": "298",
+                "name": "Blast Burn",
+                "type": "Fire",
+                "power": "110",
+                "energy_cost": "50",
+                "duration": "3.3",
+                "damage_start": "2.75",
+                "damage_end": "3.2"
+            },
+            {
+                "id": "299",
+                "name": "Hydro Cannon",
+                "type": "Water",
+                "power": "90",
+                "energy_cost": "50",
+                "duration": "1.9",
+                "damage_start": "0.5",
+                "damage_end": "1.6"
+            },
+            {
+                "id": "300",
+                "name": "Last Resort",
+                "type": "Normal",
+                "power": "90",
+                "energy_cost": "50",
+                "duration": "2.9",
+                "damage_start": "2.7",
+                "damage_end": "2.85"
+            },
+            {
+                "id": "301",
+                "name": "Meteor Mash",
+                "type": "Steel",
+                "power": "100",
+                "energy_cost": "50",
+                "duration": "2.6",
+                "damage_start": "2.3",
+                "damage_end": "2.5"
+            },
+            {
+                "id": "302",
+                "name": "Skull Bash",
+                "type": "Normal",
+                "power": "130",
+                "energy_cost": "100",
+                "duration": "3.1",
+                "damage_start": "1.8",
+                "damage_end": "2.3"
+            },
+            {
+                "id": "303",
+                "name": "Acid Spray",
+                "type": "Poison",
+                "power": "20",
+                "energy_cost": "50",
+                "duration": "3",
+                "damage_start": "2.1",
+                "damage_end": "2.8"
+            },
+            {
+                "id": "304",
+                "name": "Earth Power",
+                "type": "Ground",
+                "power": "100",
+                "energy_cost": "50",
+                "duration": "3.6",
+                "damage_start": "2.7",
+                "damage_end": "3.4"
+            },
+            {
+                "id": "305",
+                "name": "Crabhammer",
+                "type": "Water",
+                "power": "85",
+                "energy_cost": "50",
+                "duration": "1.9",
+                "damage_start": "1.5",
+                "damage_end": "1.75"
+            },
+            {
+                "id": "306",
+                "name": "Lunge",
+                "type": "Bug",
+                "power": "55",
+                "energy_cost": "33",
+                "duration": "2.9",
+                "damage_start": "2.4",
+                "damage_end": "2.7"
+            },
+            {
+                "id": "308",
+                "name": "Octazooka",
+                "type": "Water",
+                "power": "50",
+                "energy_cost": "50",
+                "duration": "2.3",
+                "damage_start": "1.3",
+                "damage_end": "1.6"
+            },
+            {
+                "id": "309",
+                "name": "Mirror Shot",
+                "type": "Steel",
+                "power": "50",
+                "energy_cost": "33",
+                "duration": "2.4",
+                "damage_start": "1.8",
+                "damage_end": "2.2"
+            },
+            {
+                "id": "310",
+                "name": "Superpower",
+                "type": "Fighting",
+                "power": "85",
+                "energy_cost": "50",
+                "duration": "3",
+                "damage_start": "2.1",
+                "damage_end": "2.8"
+            },
+            {
+                "id": "311",
+                "name": "Fell Stinger",
+                "type": "Bug",
+                "power": "50",
+                "energy_cost": "33",
+                "duration": "2.2",
+                "damage_start": "1.8",
+                "damage_end": "2"
+            },
+            {
+                "id": "312",
+                "name": "Leaf Tornado",
+                "type": "Grass",
+                "power": "45",
+                "energy_cost": "33",
+                "duration": "3.1",
+                "damage_start": "2",
+                "damage_end": "2.6"
+            },
+            {
+                "id": "314",
+                "name": "Drain Punch",
+                "type": "Fighting",
+                "power": "50",
+                "energy_cost": "33",
+                "duration": "2.4",
+                "damage_start": "1",
+                "damage_end": "1.5"
+            },
+            {
+                "id": "315",
+                "name": "Shadow Bone",
+                "type": "Ghost",
+                "power": "80",
+                "energy_cost": "50",
+                "duration": "2.8",
+                "damage_start": "2.25",
+                "damage_end": "2.7"
+            },
+            {
+                "id": "316",
+                "name": "Muddy Water",
+                "type": "Water",
+                "power": "50",
+                "energy_cost": "33",
+                "duration": "2.2",
+                "damage_start": "1.2",
+                "damage_end": "1.9"
+            },
+            {
+                "id": "317",
+                "name": "Blaze Kick",
+                "type": "Fire",
+                "power": "45",
+                "energy_cost": "33",
+                "duration": "1.2",
+                "damage_start": "0.45",
+                "damage_end": "0.8"
+            },
+            {
+                "id": "318",
+                "name": "Razor Shell",
+                "type": "Water",
+                "power": "45",
+                "energy_cost": "33",
+                "duration": "1.3",
+                "damage_start": "0.65",
+                "damage_end": "1"
+            },
+            {
+                "id": "319",
+                "name": "Power-Up Punch",
+                "type": "Fighting",
+                "power": "50",
+                "energy_cost": "33",
+                "duration": "2",
+                "damage_start": "1.7",
+                "damage_end": "1.9"
+            },
+            {
+                "id": "321",
+                "name": "Giga Impact",
+                "type": "Normal",
+                "power": "200",
+                "energy_cost": "100",
+                "duration": "4.7",
+                "damage_start": "1",
+                "damage_end": "2.4"
+            },
+            {
+                "id": "322",
+                "name": "Frustration",
+                "type": "Normal",
+                "power": "10",
+                "energy_cost": "33",
+                "duration": "2",
+                "damage_start": "1",
+                "damage_end": "1.8"
+            },
+            {
+                "id": "323",
+                "name": "Return",
+                "type": "Normal",
+                "power": "35",
+                "energy_cost": "33",
+                "duration": "0.7",
+                "damage_start": "0.1",
+                "damage_end": "0.35"
+            },
+            {
+                "id": "324",
+                "name": "Synchronoise",
+                "type": "Psychic",
+                "power": "80",
+                "energy_cost": "50",
+                "duration": "2.6",
+                "damage_start": "0.85",
+                "damage_end": "1.6"
+            },
+            {
+                "id": "330",
+                "name": "Sacred Sword",
+                "type": "Fighting",
+                "power": "55",
+                "energy_cost": "33",
+                "duration": "1.2",
+                "damage_start": "0.5",
+                "damage_end": "1"
+            },
+            {
+                "id": "331",
+                "name": "Flying Press",
+                "type": "Fighting",
+                "power": "110",
+                "energy_cost": "50",
+                "duration": "2.3",
+                "damage_start": "1",
+                "damage_end": "2"
+            },
+            {
+                "id": "332",
+                "name": "Aura Sphere",
+                "type": "Fighting",
+                "power": "90",
+                "energy_cost": "50",
+                "duration": "1.8",
+                "damage_start": "1",
+                "damage_end": "1.6"
+            },
+            {
+                "id": "333",
+                "name": "Payback",
+                "type": "Dark",
+                "power": "100",
+                "energy_cost": "100",
+                "duration": "2.2",
+                "damage_start": "1.1",
+                "damage_end": "2"
+            },
+            {
+                "id": "334",
+                "name": "Rock Wrecker",
+                "type": "Rock",
+                "power": "110",
+                "energy_cost": "50",
+                "duration": "3.6",
+                "damage_start": "2",
+                "damage_end": "2.7"
+            },
+            {
+                "id": "335",
+                "name": "Aeroblast",
+                "type": "Flying",
+                "power": "180",
+                "energy_cost": "100",
+                "duration": "3.4",
+                "damage_start": "3.2",
+                "damage_end": "3.4"
+            },
+            {
+                "id": "337",
+                "name": "Techno Blast",
+                "type": "Fire",
+                "power": "120",
+                "energy_cost": "100",
+                "duration": "2",
+                "damage_start": "1.4",
+                "damage_end": "2"
+            },
+            {
+                "id": "338",
+                "name": "Techno Blast",
+                "type": "Ice",
+                "power": "120",
+                "energy_cost": "100",
+                "duration": "2",
+                "damage_start": "1.4",
+                "damage_end": "2"
+            },
+            {
+                "id": "339",
+                "name": "Techno Blast",
+                "type": "Water",
+                "power": "120",
+                "energy_cost": "100",
+                "duration": "2",
+                "damage_start": "1.5",
+                "damage_end": "2"
+            },
+            {
+                "id": "340",
+                "name": "Techno Blast",
+                "type": "Electric",
+                "power": "120",
+                "energy_cost": "100",
+                "duration": "2",
+                "damage_start": "1.6",
+                "damage_end": "2"
+            },
+            {
+                "id": "341",
+                "name": "Fly",
+                "type": "Flying",
+                "power": "80",
+                "energy_cost": "50",
+                "duration": "1.8",
+                "damage_start": "1.2",
+                "damage_end": "1.5"
+            },
+            {
+                "id": "342",
+                "name": "V-create",
+                "type": "Fire",
+                "power": "95",
+                "energy_cost": "33",
+                "duration": "2.8",
+                "damage_start": "1.7",
+                "damage_end": "2.5"
+            },
+            {
+                "id": "343",
+                "name": "Leaf Storm",
+                "type": "Grass",
+                "power": "130",
+                "energy_cost": "100",
+                "duration": "2.5",
+                "damage_start": "1.1",
+                "damage_end": "1.25"
+            },
+            {
+                "id": "344",
+                "name": "Tri Attack",
+                "type": "Normal",
+                "power": "75",
+                "energy_cost": "50",
+                "duration": "2.5",
+                "damage_start": "1.3",
+                "damage_end": "2.4"
+            },
+            {
+                "id": "348",
+                "name": "Feather Dance",
+                "type": "Flying",
+                "power": "35",
+                "energy_cost": "50",
+                "duration": "2.8",
+                "damage_start": "1.7",
+                "damage_end": "2.5"
+            },
+            {
+                "id": "352",
+                "name": "Weather Ball",
+                "type": "Normal",
+                "power": "55",
+                "energy_cost": "33",
+                "duration": "1.6",
+                "damage_start": "1.35",
+                "damage_end": "1.6"
+            },
+            {
+                "id": "353",
+                "name": "Psychic Fangs",
+                "type": "Psychic",
+                "power": "30",
+                "energy_cost": "33",
+                "duration": "1.2",
+                "damage_start": "0.4",
+                "damage_end": "1.1"
+            },
+            {
+                "id": "358",
+                "name": "Sacred Fire",
+                "type": "Fire",
+                "power": "120",
+                "energy_cost": "100",
+                "duration": "2.6",
+                "damage_start": "1.2",
+                "damage_end": "2.4"
+            },
+            {
+                "id": "359",
+                "name": "Icicle Spear",
+                "type": "Ice",
+                "power": "60",
+                "energy_cost": "33",
+                "duration": "2.2",
+                "damage_start": "1.2",
+                "damage_end": "1.8"
+            },
+            {
+                "id": "360",
+                "name": "Aeroblast+",
+                "type": "Flying",
+                "power": "200",
+                "energy_cost": "100",
+                "duration": "3.4",
+                "damage_start": "3.2",
+                "damage_end": "3.4"
+            },
+            {
+                "id": "361",
+                "name": "Aeroblast++",
+                "type": "Flying",
+                "power": "225",
+                "energy_cost": "100",
+                "duration": "3.4",
+                "damage_start": "3.2",
+                "damage_end": "3.4"
+            },
+            {
+                "id": "362",
+                "name": "Sacred Fire+",
+                "type": "Fire",
+                "power": "135",
+                "energy_cost": "100",
+                "duration": "2.6",
+                "damage_start": "1.2",
+                "damage_end": "2.4"
+            },
+            {
+                "id": "363",
+                "name": "Sacred Fire++",
+                "type": "Fire",
+                "power": "155",
+                "energy_cost": "100",
+                "duration": "2.6",
+                "damage_start": "1.2",
+                "damage_end": "2.4"
+            },
+            {
+                "id": "364",
+                "name": "Acrobatics",
+                "type": "Flying",
+                "power": "100",
+                "energy_cost": "100",
+                "duration": "2",
+                "damage_start": "0.6",
+                "damage_end": "1.7"
+            },
+            {
+                "id": "365",
+                "name": "Luster Purge",
+                "type": "Psychic",
+                "power": "100",
+                "energy_cost": "100",
+                "duration": "1.5",
+                "damage_start": "0.5",
+                "damage_end": "1.5"
+            },
+            {
+                "id": "366",
+                "name": "Mist Ball",
+                "type": "Psychic",
+                "power": "105",
+                "energy_cost": "100",
+                "duration": "2",
+                "damage_start": "1.2",
+                "damage_end": "1.7"
+            },
+            {
+                "id": "367",
+                "name": "Brutal Swing",
+                "type": "Dark",
+                "power": "65",
+                "energy_cost": "33",
+                "duration": "1.9",
+                "damage_start": "1.2",
+                "damage_end": "1.6"
+            },
+            {
+                "id": "369",
+                "name": "Seed Flare",
+                "type": "Grass",
+                "power": "120",
+                "energy_cost": "100",
+                "duration": "2.7",
+                "damage_start": "2.5",
+                "damage_end": "2.6"
+            },
+            {
+                "id": "370",
+                "name": "Obstruct",
+                "type": "Dark",
+                "power": "20",
+                "energy_cost": "33",
+                "duration": "1.7",
+                "damage_start": "0.5",
+                "damage_end": "1.6"
+            },
+            {
+                "id": "371",
+                "name": "Shadow Force",
+                "type": "Ghost",
+                "power": "140",
+                "energy_cost": "100",
+                "duration": "1.9",
+                "damage_start": "1.7",
+                "damage_end": "1.9"
+            },
+            {
+                "id": "372",
+                "name": "Meteor Beam",
+                "type": "Rock",
+                "power": "140",
+                "energy_cost": "100",
+                "duration": "1.9",
+                "damage_start": "1",
+                "damage_end": "1.9"
+            },
+            {
+                "id": "374",
+                "name": "Fusion Bolt",
+                "type": "Electric",
+                "power": "140",
+                "energy_cost": "100",
+                "duration": "2",
+                "damage_start": "1.25",
+                "damage_end": "1.8"
+            },
+            {
+                "id": "375",
+                "name": "Fusion Flare",
+                "type": "Fire",
+                "power": "140",
+                "energy_cost": "100",
+                "duration": "2.2",
+                "damage_start": "1.5",
+                "damage_end": "2"
+            },
+            {
+                "id": "376",
+                "name": "Poltergeist",
+                "type": "Ghost",
+                "power": "140",
+                "energy_cost": "100",
+                "duration": "3.6",
+                "damage_start": "2.8",
+                "damage_end": "3"
+            },
+            {
+                "id": "377",
+                "name": "High Horsepower",
+                "type": "Ground",
+                "power": "110",
+                "energy_cost": "100",
+                "duration": "1.6",
+                "damage_start": "1",
+                "damage_end": "1.2"
+            },
+            {
+                "id": "378",
+                "name": "Glaciate",
+                "type": "Ice",
+                "power": "160",
+                "energy_cost": "100",
+                "duration": "2.5",
+                "damage_start": "1.5",
+                "damage_end": "2.5"
+            },
+            {
+                "id": "379",
+                "name": "Breaking Swipe",
+                "type": "Dragon",
+                "power": "35",
+                "energy_cost": "33",
+                "duration": "0.8",
+                "damage_start": "0.27",
+                "damage_end": "0.7"
+            },
+            {
+                "id": "380",
+                "name": "Boomburst",
+                "type": "Normal",
+                "power": "140",
+                "energy_cost": "100",
+                "duration": "2.3",
+                "damage_start": "1",
+                "damage_end": "2"
+            },
+            {
+                "id": "381",
+                "name": "Double Iron Bash",
+                "type": "Steel",
+                "power": "70",
+                "energy_cost": "33",
+                "duration": "2",
+                "damage_start": "1.3",
+                "damage_end": "2"
+            },
+            {
+                "id": "382",
+                "name": "Mystical Fire",
+                "type": "Fire",
+                "power": "60",
+                "energy_cost": "33",
+                "duration": "2",
+                "damage_start": "1.3",
+                "damage_end": "2"
+            },
+            {
+                "id": "383",
+                "name": "Liquidation",
+                "type": "Water",
+                "power": "70",
+                "energy_cost": "33",
+                "duration": "3",
+                "damage_start": "2",
+                "damage_end": "2.7"
+            },
+            {
+                "id": "384",
+                "name": "Dragon Ascent",
+                "type": "Flying",
+                "power": "140",
+                "energy_cost": "50",
+                "duration": "3.5",
+                "damage_start": "3.25",
+                "damage_end": "3.4"
+            },
+            {
+                "id": "386",
+                "name": "Magma Storm",
+                "type": "Fire",
+                "power": "75",
+                "energy_cost": "33",
+                "duration": "2.5",
+                "damage_start": "1.3",
+                "damage_end": "2.8"
+            },
+            {
+                "id": "388",
+                "name": "Spacial Rend",
+                "type": "Dragon",
+                "power": "160",
+                "energy_cost": "100",
+                "duration": "2.5",
+                "damage_start": "1.37",
+                "damage_end": "2.95"
+            },
+            {
+                "id": "389",
+                "name": "Oblivion Wing",
+                "type": "Flying",
+                "power": "85",
+                "energy_cost": "50",
+                "duration": "2",
+                "damage_start": "1.5",
+                "damage_end": "1.9"
+            },
+            {
+                "id": "390",
+                "name": "Nature's Madness",
+                "type": "Fairy",
+                "power": "90",
+                "energy_cost": "50",
+                "duration": "2.1",
+                "damage_start": "1.4",
+                "damage_end": "2"
+            },
+            {
+                "id": "391",
+                "name": "Triple Axel",
+                "type": "Ice",
+                "power": "60",
+                "energy_cost": "33",
+                "duration": "2",
+                "damage_start": "1.5",
+                "damage_end": "1.7"
+            },
+            {
+                "id": "392",
+                "name": "Trailblaze",
+                "type": "Grass",
+                "power": "65",
+                "energy_cost": "50",
+                "duration": "2",
+                "damage_start": "1.2",
+                "damage_end": "1.9"
+            },
+            {
+                "id": "393",
+                "name": "Scorching Sands",
+                "type": "Ground",
+                "power": "95",
+                "energy_cost": "50",
+                "duration": "3.2",
+                "damage_start": "1.6",
+                "damage_end": "2.5"
+            },
+            {
+                "id": "394",
+                "name": "Roar of Time",
+                "type": "Dragon",
+                "power": "160",
+                "energy_cost": "100",
+                "duration": "2.2",
+                "damage_start": "1.05",
+                "damage_end": "2.5"
+            },
+            {
+                "id": "395",
+                "name": "Bleakwind Storm",
+                "type": "Flying",
+                "power": "140",
+                "energy_cost": "100",
+                "duration": "2.3",
+                "damage_start": "1.8",
+                "damage_end": "2.6"
+            },
+            {
+                "id": "396",
+                "name": "Sandsear Storm",
+                "type": "Ground",
+                "power": "140",
+                "energy_cost": "100",
+                "duration": "2.3",
+                "damage_start": "1.8",
+                "damage_end": "2.6"
+            },
+            {
+                "id": "397",
+                "name": "Wildbolt Storm",
+                "type": "Electric",
+                "power": "140",
+                "energy_cost": "100",
+                "duration": "2.3",
+                "damage_start": "1.8",
+                "damage_end": "2.6"
+            },
+            {
+                "id": "398",
+                "name": "Spirit Shackle",
+                "type": "Ghost",
+                "power": "70",
+                "energy_cost": "33",
+                "duration": "2.5",
+                "damage_start": "2",
+                "damage_end": "3.4"
+            },
+            {
+                "id": "399",
+                "name": "Volt Tackle",
+                "type": "Electric",
+                "power": "90",
+                "energy_cost": "33",
+                "duration": "3.4",
+                "damage_start": "2",
+                "damage_end": "2.5"
+            },
+            {
+                "id": "400",
+                "name": "Darkest Lariat",
+                "type": "Dark",
+                "power": "80",
+                "energy_cost": "50",
+                "duration": "2",
+                "damage_start": "1.2",
+                "damage_end": "2"
+            },
+            {
+                "id": "404",
+                "name": "Sunsteel Strike",
+                "type": "Steel",
+                "power": "230",
+                "energy_cost": "100",
+                "duration": "3.1",
+                "damage_start": "2.3",
+                "damage_end": "3.1"
+            },
+            {
+                "id": "405",
+                "name": "Moongeist Beam",
+                "type": "Ghost",
+                "power": "230",
+                "energy_cost": "100",
+                "duration": "3.1",
+                "damage_start": "2.3",
+                "damage_end": "3.1"
+            },
+            {
+                "id": "408",
+                "name": "High Jump Kick",
+                "type": "Fighting",
+                "power": "90",
+                "energy_cost": "100",
+                "duration": "1.5",
+                "damage_start": "0.45",
+                "damage_end": "0.8"
+            }
+        ]
+    }
+}
